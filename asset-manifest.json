@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sneaker_shop/static/css/main.bf631b0c.css",
+    "main.js": "/sneaker_shop/static/js/main.03553339.js",
+    "static/media/r4.png": "/sneaker_shop/static/media/r4.53de0f4662802e59436b.png",
+    "static/media/af1.png": "/sneaker_shop/static/media/af1.e05f96ffa8b6e68872c1.png",
+    "static/media/converse.png": "/sneaker_shop/static/media/converse.0f58d989536d00b64f8e.png",
+    "static/media/military.png": "/sneaker_shop/static/media/military.25105e779f202cbfc286.png",
+    "static/media/chicago.png": "/sneaker_shop/static/media/chicago.09988b22bf4d9a37dba8.png",
+    "static/media/airmax.png": "/sneaker_shop/static/media/airmax.9e173f9b22ae3a715cc1.png",
+    "static/media/lnf.png": "/sneaker_shop/static/media/lnf.c30318cac4db10630716.png",
+    "static/media/panda.png": "/sneaker_shop/static/media/panda.f217230da36c1dfca69e.png",
+    "static/media/aj1.png": "/sneaker_shop/static/media/aj1.1e62a0a1dfa5572f44cc.png",
+    "static/media/j1.jpg": "/sneaker_shop/static/media/j1.3c2a2258344f8e1e1033.jpg",
+    "index.html": "/sneaker_shop/index.html",
+    "main.bf631b0c.css.map": "/sneaker_shop/static/css/main.bf631b0c.css.map",
+    "main.03553339.js.map": "/sneaker_shop/static/js/main.03553339.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf631b0c.css",
+    "static/js/main.03553339.js"
+  ]
+}
